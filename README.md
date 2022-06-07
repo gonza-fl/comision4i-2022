@@ -1,1 +1,6 @@
-# comision 4i 2022
+# Comision 4i 2022
+
+## Mentores
+
+	- Gonza
+	- Katu
